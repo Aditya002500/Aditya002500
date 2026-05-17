@@ -81,20 +81,14 @@
 ## ✨ Animated Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya002500&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Aditya002500&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Aditya002500&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800"
     height="170"
     alt="GitHub Stats"
   />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya002500&layout=compact&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya002500&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
     height="170"
     alt="Top Languages"
   />
