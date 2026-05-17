@@ -82,15 +82,8 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Aditya002500&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800"
-    height="170"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya002500&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="170"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya002500&theme=tokyonight"
+    width="100%"
   />
 </div>
 
