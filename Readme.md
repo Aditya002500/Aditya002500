@@ -93,7 +93,6 @@
   />
 </div>
 
-<br/>
 <div align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya002500&theme=tokyonight"
@@ -101,6 +100,17 @@
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya002500&theme=tokyonight"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyabhat75&theme=tokyonight"
+    alt="Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyabhat75&theme=tokyonight&utcOffset=5.5"
+    alt="Productive Time"
   />
 </div>
 
@@ -143,7 +153,7 @@
 
 - Top 10 Finalist — Inceptrix 2025 Hackathon
 - ICPC Regionalist (2x)
-- Open source contributor in the Mifos ecosystem
+- Open source contributor.
 - Experience across ML, backend, and AI-enabled workflows
 
 ---
@@ -153,7 +163,6 @@
 **RV Institute of Technology and Management**  
 B.E. in Information Science and Engineering  
 Aug 2023 – May 2027  
-CGPA: 8.5 / 10
 
 ---
 
