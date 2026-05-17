@@ -106,25 +106,6 @@
 
 <br/>
 
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya002500&theme=react-dark&hide_border=true&area=true"
-    width="100%"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats.demolab.com?user=Aditya002500&theme=dark&hide_border=false&border_radius=5" 
-    height="220"
-    alt="Streak Stats"
-  />
-</div>
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya002500/Aditya002500/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya002500/Aditya002500/output/pacman-contribution-graph.svg">
