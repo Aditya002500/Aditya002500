@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&reversal=false&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Kotlin%20%7C%20KMP%20%7C%20Spring%20Boot%20%7C%20Android&descSize=18&descAlign=50&descAlignY=60&theme=gruvbox_light" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&reversal=false&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Machine%20Learning%20%7C%20GenAI%20%7C%20Kotlin%20%7C%20Backend&descSize=18&descAlign=50&descAlignY=60&theme=gruvbox_light" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Aditya+Kumar+%F0%9F%91%8B;Full-Stack+Mobile+Engineer;Kotlin+%2B+Spring+Boot;Android+%7C+KMP+%7C+Jetpack+Compose;Open+Source+Contributor;Building+cool+stuff+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Aditya+Kumar+%F0%9F%91%8B;Machine+Learning+Developer;Python+%7C+PyTorch+%7C+OpenCV+%7C+RAG;GenAI+%7C+NLP+%7C+LLMs;Ktor+%7C+Koin+%7C+Docker+%7C+PostgreSQL;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -12,8 +12,11 @@
   <a href="https://www.linkedin.com/in/25-aditya-kumar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" />
   </a>
-  <a href="mailto:adityakumar250025@gmail.com" target="_blank">
+  <a href="mailto:aditya.kumar25025@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Adi025" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="GitHub" />
   </a>
   <a href="https://www.aditya25kumar.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Portfolio" />
@@ -31,37 +34,46 @@
 ## 👩‍💻 About Me
 
 <p align="left">
-  🔭 I’m working as a <b>Full-Stack Mobile Engineer</b> — <b>Kotlin (Android & KMP)</b> on the client and <b>Spring Boot</b> on the backend.<br><br>
-  📚 I’m currently learning <b>cross-platform app architecture</b>, <b>KMP integrations</b>, and tooling to automate app scaffolding.<br><br>
-  ⚡ In my free time I contribute to open-source, prototype apps, and practice algorithms.
+  🔭 I work on <b>machine learning, GenAI, and backend systems</b> with a focus on production-ready experimentation and deployment.<br><br>
+  📚 My core interests include <b>PyTorch, OpenCV, RAG, LLM integration, NLP, and voice workflows</b>.<br><br>
+  🛠 I also build <b>Kotlin backend services</b> with <b>Ktor</b> and <b>Koin</b>, and I use <b>Docker, PostgreSQL, AWS, and MLflow</b> in practical systems.<br><br>
+  ⚡ I like open-source contribution, prototyping AI tools, and competitive programming.
 </p>
 
 ---
 
-## 🛠 Language and Tools
+## 🛠 Languages and Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="Jetpack Compose" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</div>
+
+<br/>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/LLMs-RAG%20%7C%20Embeddings%20%7C%20Prompt%20Eng.-8A2BE2?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Backend-Ktor%20%7C%20Koin%20%7C%20REST%20APIs-007ACC?style=for-the-badge" alt="Backend" />
+  <img src="https://img.shields.io/badge/MLOps-MLflow%20%7C%20CI%2FCD%20%7C%20Docker-0A0A0A?style=for-the-badge" alt="MLOps" />
 </div>
 
 ---
@@ -106,19 +118,19 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3 align="left">Android / KMP Projects</h3>
+      <h3 align="left">Machine Learning & GenAI</h3>
       <ul>
-        <li>Modern Android apps using <b>Jetpack Compose</b></li>
-        <li><b>Kotlin Multiplatform</b> shared logic and architecture</li>
-        <li>Clean architecture, modularization, and scalable UI</li>
+        <li>Vision and perception workflows using <b>PyTorch</b> and <b>OpenCV</b></li>
+        <li><b>RAG</b>, embeddings, semantic search, and LLM-based automation</li>
+        <li>Voice, NLP, and agentic systems with <b>Whisper</b> and <b>LangGraph</b></li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3 align="left">Backend / Platform Work</h3>
+      <h3 align="left">Backend & Systems</h3>
       <ul>
-        <li><b>Spring Boot</b> APIs and backend services</li>
-        <li>Authentication, persistence, and integrations</li>
-        <li>Developer tooling and automation experiments</li>
+        <li>Production-ready services with <b>Ktor</b> and <b>Koin</b></li>
+        <li>Containerized deployments using <b>Docker</b> and CI/CD</li>
+        <li><b>PostgreSQL</b>, Linux, AWS, structured logging, and async workflows</li>
       </ul>
     </td>
   </tr>
@@ -128,21 +140,43 @@
 
 ## 📌 Current Focus
 
-- Building high-quality Android and KMP apps
-- Strengthening backend fundamentals with Spring Boot
-- Practicing DSA and competitive programming
-- Contributing to open-source projects
-- Exploring ways to automate app scaffolding and code generation
+- Building AI systems with strong evaluation and reproducibility
+- Improving my GenAI, NLP, and voice workflow stack
+- Shipping better Kotlin backend services
+- Strengthening ML deployment and experiment tracking
+- Contributing to open source and solving competitive programming problems
 
 ---
 
-## 🧠 What I Enjoy
+## 🧠 Projects I'm Working On
 
-- Clean architecture
-- Product-minded UI
-- Scalable codebases
-- Open source collaboration
-- Fast iteration with Kotlin and Compose
+### AI Clinical Workflow Assistant
+- Converts doctor-patient audio into transcripts, structured EMR notes, summaries, and follow-up actions
+- Uses Whisper, LLMs, LangGraph, and RAG over medical knowledge sources
+- Focused on reducing hallucinations and improving grounded responses
+
+### Jarvis for Desktop + Browser
+- Multimodal AI assistant for desktop and browser automation
+- Supports voice commands, memory, task planning, app launching, and screen understanding
+- Built with LangGraph, Playwright, OpenCV, and Whisper
+
+---
+
+## 🏆 Highlights
+
+- Top 10 Finalist — Inceptrix 2025 Hackathon
+- ICPC Regionalist (2x)
+- Open source contributor in the Mifos ecosystem
+- Experience across ML, backend, and AI-enabled workflows
+
+---
+
+## 🎓 Education
+
+**RV Institute of Technology and Management**  
+B.E. in Information Science and Engineering  
+Aug 2023 – May 2027  
+CGPA: 8.5 / 10
 
 ---
 
@@ -152,8 +186,11 @@
   <a href="https://www.linkedin.com/in/25-aditya-kumar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:adityakumar250025@gmail.com" target="_blank">
+  <a href="mailto:aditya.kumar25025@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Adi025" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.aditya25kumar.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
