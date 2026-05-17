@@ -138,30 +138,6 @@
 
 ---
 
-## 📌 Current Focus
-
-- Building AI systems with strong evaluation and reproducibility
-- Improving my GenAI, NLP, and voice workflow stack
-- Shipping better Kotlin backend services
-- Strengthening ML deployment and experiment tracking
-- Contributing to open source and solving competitive programming problems
-
----
-
-## 🧠 Projects I'm Working On
-
-### AI Clinical Workflow Assistant
-- Converts doctor-patient audio into transcripts, structured EMR notes, summaries, and follow-up actions
-- Uses Whisper, LLMs, LangGraph, and RAG over medical knowledge sources
-- Focused on reducing hallucinations and improving grounded responses
-
-### Jarvis for Desktop + Browser
-- Multimodal AI assistant for desktop and browser automation
-- Supports voice commands, memory, task planning, app launching, and screen understanding
-- Built with LangGraph, Playwright, OpenCV, and Whisper
-
----
-
 ## 🏆 Highlights
 
 - Top 10 Finalist — Inceptrix 2025 Hackathon
@@ -189,11 +165,10 @@ CGPA: 8.5 / 10
   <a href="mailto:aditya.kumar25025@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Adi025" target="_blank">
+  <a href="https://github.com/Aditya002500" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.aditya25kumar.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
