@@ -80,39 +80,40 @@
 
 ## ✨ Animated Stats
 
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya002500&theme=tokyonight"
-    width="100%"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya002500&theme=tokyonight&utcOffset=5.5"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya002500&theme=tokyonight"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya002500&theme=tokyonight"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyabhat75&theme=tokyonight"
-    alt="Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyabhat75&theme=tokyonight&utcOffset=5.5"
-    alt="Productive Time"
-  />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya002500&theme=tokyonight"
+        alt="Repos Per Language"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya002500&theme=tokyonight"
+        alt="Most Commit Language"
+        width="100%"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya002500&theme=tokyonight"
+        alt="Stats"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya002500&theme=tokyonight&utcOffset=5.5"
+        alt="Productive Time"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
