@@ -87,20 +87,27 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya002500&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya002500&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Aditya002500&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" 
+    height="170"
+    alt="GitHub Stats"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya002500&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+    alt="Top Languages"
+  />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Aditya002500&theme=dark&hide_border=false&border_radius=5" height="220" alt="Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya002500&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img 
+    src="https://github-readme-streak-stats.demolab.com?user=Aditya002500&theme=dark&hide_border=false&border_radius=5" 
+    height="220"
+    alt="Streak Stats"
+  />
 </div>
 
 <br/>
